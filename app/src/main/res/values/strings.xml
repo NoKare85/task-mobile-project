@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TasksApp</string>
+
+    <string-array name="_ids">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="firstnames">
+        <item>John</item>
+        <item>Jim</item>
+        <item>Bob</item>
+    </string-array>
+
+    <string-array name="lastnames">
+        <item>Doe</item>
+        <item>Smith</item>
+        <item>Johnson</item>
+    </string-array>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
